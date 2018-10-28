@@ -8,3 +8,19 @@
 
 > First blockquote
 >	> Second blockquote
+
+1. First
+3. Second
+2. Third
+
+* Red
+* Green
+* Blue
+
++ Red
++ Green
++ Blue
+
+- Red
+- Green
+- Blue
