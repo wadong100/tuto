@@ -14,8 +14,8 @@
 2. Third
 
 * Red
-	* Green
-		* Blue
+ * Green
+  * Blue
 
 + Red
 	+ Green
