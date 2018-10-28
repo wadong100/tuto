@@ -39,5 +39,9 @@ int main(void) {
 ------------------------------------------
 
 **bold**
+
 ***italic***
+
 ~~cancellation~~
+
+`monospace`
