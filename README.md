@@ -1,8 +1,8 @@
-#What is Redis?
+# What is Redis?
 
 Redis is often referred as a ***data structures*** server.
 
-#Building Redis
+# Building Redis
 
 * It is simple. just type `make`
 ```
@@ -15,6 +15,8 @@ Redis is often referred as a ***data structures*** server.
 % make 32bit
 ```
 
-#Link
+# Link
 
 [Redis](https://redis.io)
+
+------
